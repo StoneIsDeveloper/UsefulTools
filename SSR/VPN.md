@@ -1,3 +1,10 @@
+### 常用命令
+#### 一键管理脚本
+``` 
+bash ssr.sh
+``` 
+---
+
 ## Install SSR on CentOS
 
 #### 1. install wget
