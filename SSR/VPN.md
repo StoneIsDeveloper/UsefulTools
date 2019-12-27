@@ -24,4 +24,12 @@ chmod +x shadowsocks.sh
 
 这里选择 7 ，使用aes-256-cfb的加密模式
 
+---
+##　CentOS 7 Open post
+关闭防火墙：
+
+``` 
+systemctl stop firewalld.service #停止firewall
+systemctl disable firewalld.service #禁止firewall开机启动
+``` 
 
