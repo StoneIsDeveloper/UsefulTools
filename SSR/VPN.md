@@ -1,7 +1,9 @@
 ## Install SSR on CentOS
 
 ### 1. install wget
-> yum install wget
+``` 
+yum install wget 
+```
 
 ### 2.install Shadowsocks
 >wget –no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
