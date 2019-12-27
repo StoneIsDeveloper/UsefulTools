@@ -6,13 +6,19 @@ yum install wget
 ```
 
 ### 2.install Shadowsocks
->wget –no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
+``` 
+wget –no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
+``` 
 
 ### 3.shadowsocks.sh 读取权限
->chmod +x shadowsocks.sh
+``` 
+chmod +x shadowsocks.sh
+``` 
 
 ### 4. 设置你的 ss 密码和端口号
->./shadowsocks.sh 2>&1 | tee shadowsocks.log
+``` 
+./shadowsocks.sh 2>&1 | tee shadowsocks.log
+``` 
 
 ### 5.选择加密方式
 
