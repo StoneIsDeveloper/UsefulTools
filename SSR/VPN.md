@@ -1,3 +1,5 @@
+[Blog](https://www.mzyyun.com/study/centos-ssr.html)
+
 ### 常用命令
 #### 一键管理脚本
 ``` 
